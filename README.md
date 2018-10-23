@@ -1,0 +1,2 @@
+# react-typescript-storybook
+A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale. Design Systems can be a significant productivity multiplier in any medium-to-large project or company because you can document your components as you develop them, ensure a consistent look and feel throughout all your screens, and have a seamless workflow between designers and developers.
